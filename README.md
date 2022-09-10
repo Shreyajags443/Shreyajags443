@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shreyajags443
 - 👀 I’m interested in Software Engineering, Machine Learning and Data Science
-- 🌱 I’m currently learning QA Testing, Node.js - Puppeteer, Mocha. 
+- 🌱 I’m currently learning QA Testing, Node.js - Puppeteer, Mocha, Cucumber.js, Performance Testing. 
 - 💞️ I’m looking to collaborate on good first issues on open source projects
 - 📫 How to reach me - Email: jagadeshwara@wisc.edu
 
